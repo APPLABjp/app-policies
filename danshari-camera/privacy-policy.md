@@ -26,4 +26,4 @@
 ## お問い合わせ
 
 プライバシーポリシーに関するご質問は以下までご連絡ください。
-Email：applab.jp@gmail.com
+Email：applab.support@gmail.com
