@@ -28,4 +28,5 @@
 
 ## お問い合わせ
 
-Email：applab.jp@gmail.com
+Email：applab.support@gmail.com
+
