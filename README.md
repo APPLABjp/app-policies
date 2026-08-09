@@ -9,3 +9,4 @@ APPLABjpが提供するアプリのプライバシーポリシー・利用規約
 - [おえかきずかん 利用規約](oekaki-zukan/terms.md)
 - [スタディウォーズ プライバシーポリシー](studywars/privacy-policy.md)
 - [Neo Arcade プライバシーポリシー](neo-arcade/privacy-policy.md)
+- [Neo Arcade 利用規約](neo-arcade/terms.md)
