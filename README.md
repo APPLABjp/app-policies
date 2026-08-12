@@ -10,3 +10,7 @@ APPLABjpが提供するアプリのプライバシーポリシー・利用規約
 - [スタディウォーズ プライバシーポリシー](studywars/privacy-policy.md)
 - [Neo Arcade プライバシーポリシー](neo-arcade/privacy-policy.md)
 - [Neo Arcade 利用規約](neo-arcade/terms.md)
+- [Cosplay Note（コスプレノート） プライバシーポリシー](cosplay-note/privacy-policy.md)
+- [Cosplay Note（コスプレノート） 利用規約](cosplay-note/terms.md)
+- [Cosplay Note（コスプレノート） コミュニティガイドライン](cosplay-note/community-guidelines.md)
+- [Cosplay Note（コスプレノート） サポート](cosplay-note/support.md)
