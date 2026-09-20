@@ -14,3 +14,4 @@ APPLABjpが提供するアプリのプライバシーポリシー・利用規約
 - [Cosplay Note（コスプレノート） 利用規約](cosplay-note/terms.md)
 - [Cosplay Note（コスプレノート） コミュニティガイドライン](cosplay-note/community-guidelines.md)
 - [Cosplay Note（コスプレノート） サポート](cosplay-note/support.md)
+- [otoha プライバシーポリシー](otoha/privacy-policy.md)
